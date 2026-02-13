@@ -4,14 +4,14 @@ Last updated: February 13, 2026
 
 ## Model Comparison
 
-| Model | Company | Release | Key Features | Pricing |
-|-------|---------|---------|--------------|---------|
-| **ElevenLabs V3** | ElevenLabs | 2025 | Voice cloning, multilingual, high quality | Free tier, $5-330/mo |
-| **ElevenLabs V2** | ElevenLabs | 2024 | Voice synthesis, cloning | Same as above |
-| **Suno v4** | Suno | 2025 | Full song generation, vocals + instruments | Free tier, $10-30/mo |
-| **Udio** | Udio | 2024-2025 | Music generation, genre variety | Free tier, paid plans |
-| **Stable Audio 2** | Stability AI | 2024 | Music + sound effects | Free tier, Stability sub |
-| **MusicGen** | Meta | 2023 | Open-source music generation | Free (open source) |
+| Model | Company | Release | Key Features |
+|-------|---------|---------|--------------|
+| **ElevenLabs V3** | ElevenLabs | 2025 | Voice cloning, multilingual, high quality |
+| **ElevenLabs V2** | ElevenLabs | 2024 | Voice synthesis, cloning |
+| **Suno v4** | Suno | 2025 | Full song generation, vocals + instruments |
+| **Udio** | Udio | 2024-2025 | Music generation, genre variety |
+| **Stable Audio 2** | Stability AI | 2024 | Music + sound effects |
+| **MusicGen** | Meta | 2023 | Open-source music generation |
 
 ## Voice Generation
 
@@ -22,7 +22,6 @@ Last updated: February 13, 2026
   - 29+ languages supported
   - Real-time voice synthesis
   - Professional dubbing quality
-- **Pricing:** Free tier (10,000 characters/mo), Starter $5/mo, Creator $22/mo, Pro $99/mo
 - **Available via:** API, Raelume, Freepik Spaces
 
 ### Voice Cloning Comparison
@@ -43,7 +42,6 @@ Last updated: February 13, 2026
   - Genre flexibility
   - Lyrics input or generation
   - Up to 4 minutes per generation
-- **Pricing:** Free (50 credits/day), Pro $10/mo, Premier $30/mo
 - **Use Cases:** Background music, demo tracks, creative exploration
 
 ### Udio
@@ -52,7 +50,6 @@ Last updated: February 13, 2026
   - Music generation with genre control
   - Stem separation
   - Extend/remix features
-- **Pricing:** Free tier available, paid for commercial use
 
 ### Comparison Notes
 

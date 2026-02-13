@@ -8,11 +8,11 @@ World models are AI systems that generate interactive 3D environments from text 
 
 ## Model Comparison
 
-| Model | Company | Release | Key Features | Access |
-|-------|---------|---------|--------------|--------|
-| **Genie 3 (Project Genie)** | Google DeepMind | Jan 29, 2026 | Interactive 3D worlds, 20-24 fps, long-term memory | Google Labs (AI Ultra US) |
-| **Marble** | Research | 2025 | Physics simulation, real-world modeling | Research preview |
-| **World Labs** | World Labs | 2024-2025 | 3D scene generation | Private beta |
+| Model | Company | Release | Key Features |
+|-------|---------|---------|--------------|
+| **Genie 3 (Project Genie)** | Google DeepMind | Jan 29, 2026 | Interactive 3D worlds, 20-24 fps, long-term memory |
+| **Marble** | Research | 2025 | Physics simulation, real-world modeling |
+| **World Labs** | World Labs | 2024-2025 | 3D scene generation |
 
 ## Model Details
 

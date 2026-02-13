@@ -4,16 +4,16 @@ Last updated: February 13, 2026
 
 ## Model Comparison
 
-| Model | Company | Release | Key Features | Pricing |
-|-------|---------|---------|--------------|---------|
-| **Seedance 2.0** | ByteDance | Feb 10, 2026 | 12-file multimodal input, director-level control | Beta (Jimeng AI) |
-| **Kling 3.0** | Kuaishou | 2025 | 15 seconds, native audio, high consistency | Via platforms |
-| **Veo 3.1** | Google | 2025 | 4K video, reference images + audio | Google Cloud |
-| **Sora 2** | OpenAI | Dec 2025 | Cinematic quality, extended duration | ChatGPT Pro ($200/mo) |
-| **Runway Gen-4.5** | Runway | Feb 2026 | Native text-to-video, frontier quality | $15-500/month |
-| **Hailuo 2.3** | MiniMax | 2025 | Dynamic motion, frontier quality | Via platforms |
-| **Wan 2.6** | Alibaba | 2025 | Multi-shot support, improved quality | Via platforms |
-| **Ray 2** | Luma | 2025 | Fast generation, natural motion | Luma subscription |
+| Model | Company | Release | Key Features |
+|-------|---------|---------|--------------|
+| **Seedance 2.0** | ByteDance | Feb 10, 2026 | 12-file multimodal input, director-level control |
+| **Kling 3.0** | Kuaishou | 2025 | 15 seconds, native audio, high consistency |
+| **Veo 3.1** | Google | 2025 | 4K video, reference images + audio |
+| **Sora 2** | OpenAI | Dec 2025 | Cinematic quality, extended duration |
+| **Runway Gen-4.5** | Runway | Feb 2026 | Native text-to-video, frontier quality |
+| **Hailuo 2.3** | MiniMax | 2025 | Dynamic motion, frontier quality |
+| **Wan 2.6** | Alibaba | 2025 | Multi-shot support, improved quality |
+| **Ray 2** | Luma | 2025 | Fast generation, natural motion |
 
 ## Recent Releases
 
@@ -30,7 +30,6 @@ Last updated: February 13, 2026
 - **Developer:** Runway
 - **Valuation:** $5.3B (after $315M raise)
 - **Features:** Native text-to-video, improved consistency
-- **Pricing:** Business plans from $500/month
 
 ## Model Details
 

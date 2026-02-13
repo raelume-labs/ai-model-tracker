@@ -4,13 +4,13 @@ Last updated: February 13, 2026
 
 ## Model Comparison
 
-| Model | Company | Release | Key Features | Pricing |
-|-------|---------|---------|--------------|---------|
-| **Hunyuan3D v3** | Tencent | 2025 | Text/image to 3D, PBR textures | Via platforms |
-| **Hunyuan3D 2.1** | Tencent | Jun 2025 | PBR texture support | Via Krea |
-| **Meshy** | Meshy | 2024-2025 | Text to 3D, multiple styles | Free tier, paid plans |
-| **Tripo AI** | Tripo | 2024-2025 | Fast 3D generation | Subscription-based |
-| **CSM (Common Sense Machines)** | CSM | 2024-2025 | High-quality mesh output | API-based |
+| Model | Company | Release | Key Features |
+|-------|---------|---------|--------------|
+| **Hunyuan3D v3** | Tencent | 2025 | Text/image to 3D, PBR textures |
+| **Hunyuan3D 2.1** | Tencent | Jun 2025 | PBR texture support |
+| **Meshy** | Meshy | 2024-2025 | Text to 3D, multiple styles |
+| **Tripo AI** | Tripo | 2024-2025 | Fast 3D generation |
+| **CSM (Common Sense Machines)** | CSM | 2024-2025 | High-quality mesh output |
 
 ## Model Details
 
@@ -26,7 +26,6 @@ Last updated: February 13, 2026
 - **Input:** Text prompts or images
 - **Styles:** Various (realistic, stylized, etc.)
 - **Export:** Standard 3D formats (GLB, OBJ, FBX)
-- **Pricing:** Free tier with limited generations, paid plans available
 
 ### Tripo AI
 - **Developer:** Tripo
