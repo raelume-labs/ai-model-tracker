@@ -1,6 +1,6 @@
 # Video Generation Models
 
-Last updated: February 13, 2026
+Last updated: February 14, 2026
 
 ## Model Comparison
 
@@ -17,14 +17,15 @@ Last updated: February 13, 2026
 
 ## Recent Releases
 
-### Seedance 2.0 (February 10, 2026)
+### Seedance 2.0 (February 12, 2026)
 - **Developer:** ByteDance (TikTok parent)
-- **Headline Feature:** 12-file multimodal input system
-- **Duration:** 4-15 seconds per clip
-- **Input Types:** Text prompts, reference images, video inputs
-- **Status:** Limited beta on Jimeng AI platform
-- **Global Release:** Expected February 24, 2026
-- **Notable:** Went viral, drawing comparisons to Hollywood production quality
+- **Headline Feature:** Multimodal input (text, images, video, audio)
+- **Duration:** 4-15 seconds per clip, multi-shot storytelling
+- **Audio:** Native audio sync in multiple languages
+- **Target Use:** Professional film, e-commerce, advertising
+- **Status:** Limited beta for select community members
+- **Public Release:** Expected late February/early March 2026
+- **Notable:** Went viral as potential "second DeepSeek moment" for China AI
 
 ### Runway Gen-4.5 (February 2026)
 - **Developer:** Runway

@@ -2,6 +2,18 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-14] - Daily Update
+
+### Updated
+- Seedance 2.0 status: officially went viral after February 12 launch
+- Updated public release timeline: late February/early March 2026
+- Enhanced multimodal capabilities: native audio sync in multiple languages
+
+### Added
+- News entry for February 14, 2026
+- GLM-5 release note (Zhipu AI, February 11)
+- Viral status tracking for Seedance 2.0
+
 ## [Initial Seed] - 2026-02-13
 
 ### Added
