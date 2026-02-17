@@ -6,7 +6,7 @@ Last updated: February 14, 2026
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
-| **Seedance 2.0** | ByteDance | Feb 10, 2026 | 12-file multimodal input, director-level control |
+| **Seedance 2.0** | ByteDance | Feb 12, 2026 | 12-file multimodal input, director-level control |
 | **Kling 3.0** | Kuaishou | 2025 | 15 seconds, native audio, high consistency |
 | **Veo 3.1** | Google | 2025 | 4K video, reference images + audio |
 | **Sora 2** | OpenAI | Dec 2025 | Cinematic quality, extended duration |

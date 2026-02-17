@@ -2,6 +2,17 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-17] - Daily Update
+
+### Updated
+- Corrected Seedance 2.0 release date: February 12, 2026 (was February 10)
+- Market context: February 2026 represents largest AI model release month in history
+
+### Added
+- News entry for February 17, 2026
+- February 2026 model rush tracking (7 major models scheduled)
+- Platform integration updates: Krea adds Kling 3.0 with 4K/60fps
+
 ## [2026-02-14] - Daily Update
 
 ### Updated
