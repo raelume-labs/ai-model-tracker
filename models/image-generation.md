@@ -1,11 +1,12 @@
 # Image Generation Models
 
-Last updated: February 13, 2026
+Last updated: February 18, 2026
 
 ## Model Comparison
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **Qwen Image 2.0** | Alibaba | Feb 2026 | 7B parameters, native 2K, #1 on AI Arena leaderboard |
 | **Flux 2 Pro Ultra** | Black Forest Labs | 2025 | High quality, style versatility, up to 2048px |
 | **Nano Banana Pro** | Google | Jan 2026 | 4K output, reasoning model, prompt adherence |
 | **Imagen 4** | Google | 2025 | Superior typography, photorealistic |
@@ -17,6 +18,15 @@ Last updated: February 13, 2026
 | **Seedream 4** | ByteDance | 2025 | 4096px max, fast generation |
 
 ## Model Details
+
+### Qwen Image 2.0
+- **Developer:** Alibaba
+- **Release:** February 10, 2026
+- **Parameters:** 7B
+- **Max Resolution:** 2K (native)
+- **Speed:** ~15 seconds
+- **Strengths:** #1 ranked on AI Arena blind evaluation, competitive quality
+- **Status:** Quietly released, gaining momentum
 
 ### Flux 2 Pro Ultra
 - **Developer:** Black Forest Labs
@@ -57,4 +67,4 @@ Last updated: February 13, 2026
 
 - **ChatGPT Image (o3)** - OpenAI's reasoning-based image model
 - **Runway Gen-4 Image** - Cinematic, character-focused
-- **Qwen Image** - Alibaba's entry, competitive quality
+- **Midjourney v8** - Expected February/March 2026 launch

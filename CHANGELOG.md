@@ -2,6 +2,25 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-18] - Daily Update
+
+### Added
+- News entry for February 18, 2026
+- Qwen Image 2.0 to image generation models (Alibaba, Feb 10, 2026)
+- Claude Sonnet 4.6 tracking (Anthropic, Feb 17, 2026)
+- Sarvam AI India model coverage
+- Doubao 2.0 coverage (ByteDance weekend release)
+
+### Updated
+- Image generation model table: Qwen Image 2.0 now #1 ranked entry
+- Emerging models section: replaced Qwen Image with Midjourney v8
+- Last updated dates across trackers
+
+### Analysis
+- February 2026 model rush continues with 4+ new releases this week
+- Chinese companies (Alibaba, ByteDance) increasingly competitive in creative AI
+- Regional AI models emerging (Sarvam AI for India market)
+
 ## [2026-02-17] - Daily Update
 
 ### Updated
