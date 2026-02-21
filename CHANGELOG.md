@@ -2,6 +2,19 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-21] - Daily Update
+
+### Added
+- **Grok 4.1 Fast** to language models table (xAI, Feb 21, 2026)
+- News entry for February 21, 2026
+- Analysis of video model competition landscape
+- Enterprise AI platform integration trends
+
+### Analysis
+- xAI enters enterprise market through Microsoft partnership
+- Video model competition reaches new intensity level
+- Language models shifting focus from capability to efficiency
+
 ## [2026-02-18] - Daily Update
 
 ### Added

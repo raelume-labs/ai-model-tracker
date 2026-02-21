@@ -10,6 +10,7 @@ Tracking multimodal language models, text generation models, and reasoning model
 | Kimi K2.5 | Moonshot AI | Jan 26, 2026 | Open-weight | Multimodal LLM, vision + coding, agent swarm capabilities, 15T token pretraining | Comparable to GPT-5/Gemini on coding |
 | Claude Opus 4.6 | Anthropic | Feb 2026 | - | High-reasoning, multi-source analysis, technical domain optimization | 68% vs 58% baseline (Box eval) |
 | Claude Sonnet 4.6 | Anthropic | Feb 2026 | - | Balanced performance/cost, multimodal capabilities | TBD |
+| Grok 4.1 Fast | xAI (Elon Musk) | Feb 21, 2026 | - | Enterprise-focused, integrated in Microsoft Copilot Studio | TBD |
 | Doubao 2.0 | ByteDance | Feb 2026 | - | Multimodal language model, video understanding | TBD |
 
 ## Recent Updates
@@ -26,6 +27,11 @@ Tracking multimodal language models, text generation models, and reasoning model
 - Opus 4.6: Specialized for high-reasoning tasks, 10% performance lift in technical domains
 - Sonnet 4.6: Balanced option with improved cost efficiency
 - Both feature enhanced multimodal understanding
+
+**Grok 4.1 Fast (Feb 21, 2026) - xAI**
+- Released in Microsoft Copilot Studio integration
+- Focused on enterprise workflow automation
+- Follows xAI's pattern of business-first deployments
 
 ### January 2026
 
