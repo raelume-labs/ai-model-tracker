@@ -2,6 +2,19 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-22] - Daily Update
+
+### Added
+- **Gemini 3.1 Pro** to language models table (Google DeepMind, Feb 19, 2026)
+- News entry for February 22, 2026
+- GitHub Copilot integration tracking for Gemini 3.1 Pro
+- Analysis of Google's aggressive deployment strategy
+
+### Analysis
+- Google pursuing rapid platform integration for Gemini 3.1 Pro
+- Agentic AI capabilities becoming key differentiator
+- Developer tool integration as competitive advantage
+
 ## [2026-02-21] - Daily Update
 
 ### Added

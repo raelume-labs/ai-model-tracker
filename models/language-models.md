@@ -6,6 +6,7 @@ Tracking multimodal language models, text generation models, and reasoning model
 
 | Model | Company | Release Date | Size | Key Features | Benchmarks |
 |-------|---------|--------------|------|--------------|------------|
+| Gemini 3.1 Pro | Google DeepMind | Feb 19, 2026 | Pro-tier | 1M-token context, 77.1% ARC-AGI-2, multimodal reasoning, agentic coding capabilities | 77.1% ARC-AGI-2 benchmark |
 | Qwen3.5 | Alibaba | Feb 16, 2026 | Multiple sizes | Native multimodal (text/image/video), agentic AI optimization, improved cost efficiency | TBD |
 | Kimi K2.5 | Moonshot AI | Jan 26, 2026 | Open-weight | Multimodal LLM, vision + coding, agent swarm capabilities, 15T token pretraining | Comparable to GPT-5/Gemini on coding |
 | Claude Opus 4.6 | Anthropic | Feb 2026 | - | High-reasoning, multi-source analysis, technical domain optimization | 68% vs 58% baseline (Box eval) |
@@ -16,6 +17,12 @@ Tracking multimodal language models, text generation models, and reasoning model
 ## Recent Updates
 
 ### February 2026
+
+**Gemini 3.1 Pro (Feb 19, 2026) - Google DeepMind**
+- Advanced Pro-tier model with 1M-token context window
+- 77.1% performance on ARC-AGI-2 benchmark (significant jump from baseline)
+- Multimodal reasoning across text, images, audio, video, and code
+- Integrated into GitHub Copilot with focus on agentic coding
 
 **Qwen3.5 (Feb 16, 2026) - Alibaba**
 - Native multimodal capabilities (text, image, video)
