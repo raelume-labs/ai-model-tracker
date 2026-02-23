@@ -2,6 +2,24 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-23] - Daily Update
+
+### Added
+- News entry for February 23, 2026
+- Production-grade Gaussian splatting workflow tracking
+- Khronos Group glTF standardization coverage
+- Real production use cases: Zillow, Framestore, architectural firms
+
+### Updated
+- **Seedance 2.0 hype entry** with recent CNN coverage and Curious Refuge review
+- Added critical analysis noting robotic delivery limitations
+- Extended source list with CNN impact story
+
+### Analysis
+- Gaussian splatting transitioning from experimental to production-ready
+- Standards adoption (Khronos glTF) enabling cross-platform workflows
+- Seedance 2.0 maintains buzz but facing balanced critical analysis
+
 ## [2026-02-22] - Daily Update
 
 ### Added
