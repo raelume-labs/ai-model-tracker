@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-24] - Daily Update
+
+### Added
+- News entry for February 24, 2026
+- Kimi K2.5 funding update: $700M round drives revenue explosion
+- DeepSeek next-generation model announcement tracking
+- Gemini 3.1 Pro enterprise adoption coverage
+
+### Updated
+- **Kimi K2.5** language model entry with funding and revenue surge details
+- Extended timeline for upcoming model releases
+
+### Analysis
+- Chinese AI companies continue aggressive funding and development
+- DeepSeek model using Blackwell chips suggests major capability jump incoming
+- Enterprise adoption of advanced language models accelerating
+
 ## [2026-02-23] - Daily Update
 
 ### Added

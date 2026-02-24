@@ -48,6 +48,7 @@ Tracking multimodal language models, text generation models, and reasoning model
 - Coding with vision capabilities
 - Agent swarm execution for complex tasks
 - Performance comparable to GPT-5 and Gemini on coding benchmarks
+- **UPDATE Feb 24:** Secured $700M funding round; revenue in past 20 days exceeded all of 2025
 
 ## Model Categories
 
