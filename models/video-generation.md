@@ -1,13 +1,13 @@
 # Video Generation Models
 
-Last updated: February 14, 2026
+Last updated: February 25, 2026
 
 ## Model Comparison
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
 | **Seedance 2.0** | ByteDance | Feb 12, 2026 | 12-file multimodal input, director-level control |
-| **Kling 3.0** | Kuaishou | 2025 | 15 seconds, native audio, high consistency |
+| **Kling 3.0** | Kuaishou | Feb 6, 2026 | Multi-shot sequences 3-15s, subject consistency across camera angles, audio with voice reference |
 | **Veo 3.1** | Google | 2025 | 4K video, reference images + audio |
 | **Sora 2** | OpenAI | Dec 2025 | Cinematic quality, extended duration |
 | **Runway Gen-4.5** | Runway | Feb 2026 | Native text-to-video, frontier quality |
@@ -27,6 +27,15 @@ Last updated: February 14, 2026
 - **Public Release:** Expected late February/early March 2026
 - **Notable:** Went viral as potential "second DeepSeek moment" for China AI
 
+### Kling 3.0 (February 6, 2026)
+- **Developer:** Kuaishou
+- **Headline Feature:** Multi-shot sequences (3-15 seconds) with subject consistency across camera angles
+- **Audio:** Native audio with voice reference support, multi-character support
+- **Technical:** Advanced reference-based generation via "Video 3.0 Omni" feature
+- **Visuals:** Improved cinematic output with better lighting, richer textures, film-like quality
+- **API:** Available February 5, 2026
+- **Notable:** Breakthrough in maintaining character/object consistency across different shots
+
 ### Runway Gen-4.5 (February 2026)
 - **Developer:** Runway
 - **Valuation:** $5.3B (after $315M raise)
@@ -34,10 +43,13 @@ Last updated: February 14, 2026
 
 ## Model Details
 
-### Kling 3.0
+### Kling 3.0 (February 6, 2026)
 - **Developer:** Kuaishou
-- **Duration:** Up to 15 seconds
-- **Audio:** Native audio generation
+- **Release:** February 6, 2026 (API access February 5)
+- **Duration:** 3-15 seconds with custom duration selection
+- **Key Innovation:** Multi-shot sequences maintaining subject consistency across different camera angles
+- **Audio:** Native audio generation with voice reference support, multi-character audio
+- **Features:** Advanced reference-based generation (Video 3.0 Omni), improved cinematic visuals, film-like output
 - **Variants:** Kling 3.0, Kling 2.6, Kling 2.5, Kling 2.1, Kling 2.0
 - **Available via:** Krea, Freepik Spaces, Raelume
 

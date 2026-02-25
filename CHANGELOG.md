@@ -2,6 +2,19 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-25] - Daily Update
+
+### Updated
+- **Kling 3.0** video generation model: corrected release date to February 6, 2026 (was incorrectly listed as 2025)
+- Enhanced Kling 3.0 details: multi-shot sequences, subject consistency across camera angles, voice reference support
+- Video generation table: updated key features column with technical breakthrough information
+- Model details section: comprehensive revision with API availability dates
+
+### Analysis
+- Kling 3.0's February 2026 release represents significant advancement in video AI consistency
+- Multi-shot sequence generation addresses key limitation of previous video models
+- February 2026 continues as most active month for video generation model releases
+
 ## [2026-02-24] - Daily Update
 
 ### Added
