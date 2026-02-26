@@ -1,11 +1,13 @@
 # Image Generation Models
 
-Last updated: February 18, 2026
+Last updated: February 26, 2026
 
 ## Model Comparison
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **Seedream 5.0 Lite** | ByteDance | Feb 2026 | Web search integration, structured layouts, $0.035/image |
+| **GPT Image 1.5** | OpenAI | Feb 2026 | Faster/cheaper than DALL-E 3, leaderboard leader |
 | **Qwen Image 2.0** | Alibaba | Feb 2026 | 7B parameters, native 2K, #1 on AI Arena leaderboard |
 | **Flux 2 Pro Ultra** | Black Forest Labs | 2025 | High quality, style versatility, up to 2048px |
 | **Nano Banana Pro** | Google | Jan 2026 | 4K output, reasoning model, prompt adherence |
@@ -18,6 +20,26 @@ Last updated: February 18, 2026
 | **Seedream 4** | ByteDance | 2025 | 4096px max, fast generation |
 
 ## Model Details
+
+### Seedream 5.0 Lite
+- **Developer:** ByteDance (BytePlus)
+- **Release:** February 24, 2026
+- **Resolution:** Up to 5 images at once
+- **Speed:** Production-optimized for creative workflows
+- **Pricing:** $0.035 per image
+- **Strengths:** First image model with web search integration, structured layouts, typography handling
+- **Available via:** ComfyUI Partner Nodes, Higgsfield, Fal.ai, API providers
+- **Key Innovation:** Combines multimodal understanding with web search for contextually aware image creation
+
+### GPT Image 1.5
+- **Developer:** OpenAI
+- **Release:** February 2026
+- **Max Resolution:** Not specified (successor to DALL-E 3)
+- **Speed:** Faster than predecessor models
+- **Pricing:** Cheaper alternative to existing OpenAI image models
+- **Strengths:** Leading performance on LMArena, Design Arena, AA Arena leaderboards
+- **Available via:** OpenAI API, ChatGPT integration expected
+- **Status:** Positioned as faster/cheaper alternative, production ready
 
 ### Qwen Image 2.0
 - **Developer:** Alibaba

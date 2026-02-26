@@ -2,6 +2,26 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-26] - Daily Update
+
+### Added
+- **Seedream 5.0 Lite** to image generation models (ByteDance, February 24, 2026)
+- **GPT Image 1.5** to image generation models (OpenAI, February 2026)
+- News entry for February 26, 2026
+- First image model with web search integration tracking (Seedream 5.0 Lite)
+- Leaderboard performance tracking for GPT Image 1.5
+
+### Updated
+- Image generation model table: added two new February 2026 releases
+- Last updated date to February 26, 2026
+- Model comparison with latest competitive positioning
+
+### Analysis
+- Seedream 5.0 Lite introduces web search to image generation, enabling contextually aware creation
+- OpenAI responds with GPT Image 1.5 focused on speed/cost efficiency
+- February 2026 maintains position as most active month for AI model releases
+- Image generation competition intensifying with distinct feature differentiation
+
 ## [2026-02-25] - Daily Update
 
 ### Updated
