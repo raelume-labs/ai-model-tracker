@@ -1,11 +1,12 @@
 # Audio Generation Models
 
-Last updated: February 13, 2026
+Last updated: February 27, 2026
 
 ## Model Comparison
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **Lyria 3** | Google DeepMind | Feb 18, 2026 | Multimodal music from images/text, auto-lyrics, vocals |
 | **ElevenLabs V3** | ElevenLabs | 2025 | Voice cloning, multilingual, high quality |
 | **ElevenLabs V2** | ElevenLabs | 2024 | Voice synthesis, cloning |
 | **Suno v4** | Suno | 2025 | Full song generation, vocals + instruments |
@@ -50,6 +51,16 @@ Last updated: February 13, 2026
   - Music generation with genre control
   - Stem separation
   - Extend/remix features
+
+### Lyria 3
+- **Developer:** Google DeepMind
+- **Release:** February 18, 2026
+- **Features:**
+  - Multimodal music generation from images, videos, and text
+  - Auto-generated lyrics and vocals
+  - 30-second track generation
+  - Integrated with Gemini app (users 18+)
+- **Availability:** Gemini app, rolling out in February 2026
 
 ### Comparison Notes
 

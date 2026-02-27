@@ -2,6 +2,21 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-27] - Daily Update
+
+### Added
+- **Lyria 3** to audio generation models (Google DeepMind, February 18, 2026)
+- News entry for February 27, 2026
+- Multimodal music generation tracking (visual-to-audio capabilities)
+- Gemini app integration tracking for Lyria 3
+
+### Updated
+- Audio generation model table: added Lyria 3 with multimodal features
+- Last updated date to February 27, 2026
+
+### Analysis
+- Lyria 3 introduces multimodal music generation from images/videos, differentiating from text-only competitors
+
 ## [2026-02-26] - Daily Update
 
 ### Added
