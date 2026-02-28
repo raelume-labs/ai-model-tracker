@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-02-28] - Daily Update
+
+### Added
+- **DeepSeek V4** to hype tracker (originally expected mid-February, now Q1-Q2 2026)
+- News entry for February 28, 2026
+- Analysis of February 2026 frontier model rush conclusion
+- DeepSeek V4 delay analysis and revised timeline expectations
+
+### Updated
+- Hype tracker: DeepSeek V4 added with delay status and revised Q1-Q2 2026 expectation
+- Last updated date to February 28, 2026
+
+### Analysis
+- February 2026's five-model frontier rush has concluded with mixed results
+- DeepSeek V4's delay highlights technical challenges in coding AI development
+- Model performance landscape stabilizing around Gemini 3.1 Pro leadership
+
 ## [2026-02-27] - Daily Update
 
 ### Added
