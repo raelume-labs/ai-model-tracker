@@ -2,6 +2,22 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-01] - Daily Update
+
+### Added
+- **News entry for March 1, 2026** - Post-February model rush stabilization
+- Seedance 2.0 CapCut integration and legal challenges analysis
+- Frontier model performance hierarchy overview
+
+### Updated
+- **Seedance 2.0 hype tracker** with CapCut integration details, Disney lawsuit impact, and reduced capabilities status
+- Model landscape analysis reflecting current competitive positioning
+
+### Analysis
+- March opens with AI industry adapting to February's model release wave
+- Seedance 2.0 facing mixed reception due to legal restrictions vs technical capabilities
+- Clear performance tiers emerging among frontier models post-February rush
+
 ## [2026-02-28] - Daily Update
 
 ### Added
