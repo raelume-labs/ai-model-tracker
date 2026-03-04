@@ -2,6 +2,19 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-04] - Daily Update
+
+### Added
+- **News entry for March 4, 2026** - DeepSeek V4 watch continues, Apple hardware updates
+- Tracking DeepSeek V4 expected launch window (March 3-4 window)
+- Apple M5 and iPhone 17e Neural Engine improvements for AI
+
+### Analysis
+- DeepSeek V4 launch window passed without official release
+- Community speculation continues as "Two Sessions" meetings begin
+- Apple hardware enhancements indicate focus on local AI model performance
+- Video AI model comparison discussions trending (real-world vs promotional testing)
+
 ## [2026-03-01] - Daily Update
 
 ### Added
