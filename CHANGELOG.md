@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-05] - Daily Update
+
+### Added
+- **News entry for March 5, 2026** - Hardware platform advances and industry funding
+- Nvidia Vera Rubin platform (H300 GPUs for trillion-parameter models)
+- AMD Ryzen AI 400 series processors with enhanced NPU capabilities
+- Samsung's 800M Gemini AI device target by end of 2026
+- OpenAI $110B funding round for global AI access expansion
+- Claude overtaking ChatGPT in popularity metrics
+
+### Analysis
+- Hardware acceleration focus shifting to trillion-parameter model training
+- Consumer AI hardware expanding beyond Apple ecosystem
+- Major funding rounds indicate infrastructure scaling phase
+- Model preference trends toward transparency and control (Claude vs ChatGPT)
+- DeepSeek V4 delay extending beyond initial March 3-4 window
+
 ## [2026-03-04] - Daily Update
 
 ### Added
