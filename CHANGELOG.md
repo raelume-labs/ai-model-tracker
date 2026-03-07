@@ -2,6 +2,26 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-07] - Major Model Releases
+
+### Added
+- **GPT-5.4 to language models tracker** - OpenAI's first model with native computer use capabilities (Mar 5, 2026)
+- **Qwen3.5 Medium series** - Alibaba's open-source models with Sonnet 4.5 performance on local hardware (Feb 26, 2026)
+- **Grok 4.20 public beta** - xAI's multi-agent collaborative architecture (Feb 19, 2026)
+- **News entry for March 7, 2026** - GPT-5.4 launch analysis, Qwen3.5 Medium coverage, Grok 4.20 multi-agent approach
+
+### Updated
+- **Language models table** with three major frontier model additions
+- **March 2026 release section** in language models tracker
+- Last updated timestamp to March 7, 2026
+
+### Analysis
+- GPT-5.4 marks beginning of native computer use era for frontier models
+- Three model variants (Standard, Pro, Thinking) show specialization trend
+- Qwen3.5 Medium demonstrates open-source models reaching frontier performance
+- Grok 4.20's multi-agent architecture suggests alternative model paradigms gaining traction
+- March 2026 showing accelerated release cadence across major AI labs
+
 ## [2026-03-06] - Daily Update
 
 ### Added

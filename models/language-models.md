@@ -6,8 +6,11 @@ Tracking multimodal language models, text generation models, and reasoning model
 
 | Model | Company | Release Date | Size | Key Features | Benchmarks |
 |-------|---------|--------------|------|--------------|------------|
+| GPT-5.4 | OpenAI | Mar 5, 2026 | Frontier | Native computer use, advanced reasoning + coding, Excel/Sheets integration, autonomous agents | OSWorld-Verified benchmark improvements |
 | Gemini 3.1 Pro | Google DeepMind | Feb 19, 2026 | Pro-tier | 1M-token context, 77.1% ARC-AGI-2, multimodal reasoning, agentic coding capabilities | 77.1% ARC-AGI-2 benchmark |
+| Qwen3.5 Medium | Alibaba | Feb 26, 2026 | 4 variants | Open source, Sonnet 4.5 performance on local hardware, agentic tool calling | Sonnet 4.5 comparable |
 | Qwen3.5 | Alibaba | Feb 16, 2026 | Multiple sizes | Native multimodal (text/image/video), agentic AI optimization, improved cost efficiency | TBD |
+| Grok 4.20 | xAI | Feb 19, 2026 | Beta | 4 AI agents collaborating, rapid learning, ELO 1505-1535, public beta | ELO 1505-1535 estimated |
 | Kimi K2.5 | Moonshot AI | Jan 26, 2026 | Open-weight | Multimodal LLM, vision + coding, agent swarm capabilities, 15T token pretraining | Comparable to GPT-5/Gemini on coding |
 | Claude Opus 4.6 | Anthropic | Feb 2026 | - | High-reasoning, multi-source analysis, technical domain optimization | 68% vs 58% baseline (Box eval) |
 | Claude Sonnet 4.6 | Anthropic | Feb 2026 | - | Balanced performance/cost, multimodal capabilities | TBD |
@@ -16,7 +19,30 @@ Tracking multimodal language models, text generation models, and reasoning model
 
 ## Recent Updates
 
+### March 2026
+
+**GPT-5.4 (Mar 5, 2026) - OpenAI**
+- "Most capable and efficient frontier model for professional work"
+- Native computer use capabilities - first model with built-in computer vision for UI interaction
+- Advanced reasoning, coding, and professional document handling (Excel, Sheets, presentations)
+- Available in three variants: Standard, Pro (high performance), and Thinking (reasoning-focused)
+- Financial data integrations and spreadsheet automation
+- Significant advancement toward autonomous AI agents
+
 ### February 2026
+
+**Qwen3.5 Medium (Feb 26, 2026) - Alibaba**
+- Four open-source model variants with Sonnet 4.5-level performance
+- Commercial usage available for three of the four models
+- Agentic tool calling capabilities
+- Successfully runs on consumer hardware with M4 chips
+- Praised by Elon Musk for "impressive intelligence density"
+
+**Grok 4.20 (Feb 19, 2026) - xAI**
+- Public beta release with 4 AI agents collaborating internally
+- Rapid learning capabilities and improved model architecture
+- Estimated ELO rating of 1505-1535
+- Significant advancement over Grok 4.1 Fast released in February
 
 **Gemini 3.1 Pro (Feb 19, 2026) - Google DeepMind**
 - Advanced Pro-tier model with 1M-token context window
@@ -82,4 +108,4 @@ Tracking multimodal language models, text generation models, and reasoning model
 - **Qwen3.5**: Optimized for capability per unit of inference cost
 - **Claude Sonnet 4.6**: Balanced performance/cost option
 
-*Last updated: February 19, 2026*
+*Last updated: March 7, 2026*
