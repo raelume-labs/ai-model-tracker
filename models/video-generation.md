@@ -1,11 +1,12 @@
 # Video Generation Models
 
-Last updated: February 25, 2026
+Last updated: March 11, 2026
 
 ## Model Comparison
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **LTX-2.3** | Lightricks | Mar 8, 2026 | Open-source, native audio, 24/48 FPS, portrait 9:16, improved VAE |
 | **Seedance 2.0** | ByteDance | Feb 12, 2026 | 12-file multimodal input, director-level control |
 | **Kling 3.0** | Kuaishou | Feb 6, 2026 | Multi-shot sequences 3-15s, subject consistency across camera angles, audio with voice reference |
 | **Veo 3.1** | Google | 2025 | 4K video, reference images + audio |
@@ -16,6 +17,19 @@ Last updated: February 25, 2026
 | **Ray 2** | Luma | 2025 | Fast generation, natural motion |
 
 ## Recent Releases
+
+### LTX-2.3 (March 8, 2026)
+- **Developer:** Lightricks
+- **License:** Apache 2.0 (open-source, commercial use permitted)
+- **Architecture:** DiT-based (Diffusion Transformer)
+- **Headline Feature:** Significantly improved native audio generation that matches visual timing
+- **Technical Improvements:** New VAE architecture for sharper fine details, textures, and facial features
+- **Format Support:** Portrait 9:16 in addition to landscape formats
+- **Frame Rates:** 24 FPS and 48 FPS options for smoother motion
+- **Additional Features:** Last-frame interpolation, LoRA fine-tuning support, better prompt understanding
+- **Execution:** Designed for practical local execution on consumer hardware
+- **Audio Quality:** Cleaner audio with fewer artifacts, environmental ambience that fits the setting
+- **Notable:** One of the most significant open-source video releases of 2026, addresses key creator complaints about soft detail and messy audio
 
 ### Seedance 2.0 (February 12, 2026)
 - **Developer:** ByteDance (TikTok parent)
@@ -42,6 +56,20 @@ Last updated: February 25, 2026
 - **Features:** Native text-to-video, improved consistency
 
 ## Model Details
+
+### LTX-2.3 (March 8, 2026)
+- **Developer:** Lightricks
+- **Release:** March 8, 2026
+- **License:** Apache 2.0 open-source, commercial use and fine-tuning permitted
+- **Architecture:** DiT-based (Diffusion Transformer) with improved VAE
+- **Key Innovation:** Native audio-video generation with significantly improved audio quality that matches scene timing
+- **Audio:** Cleaner native sound generation, environmental ambience that fits the setting, fewer artifacts and unwanted drops
+- **Visual Quality:** New VAE architecture delivers sharper fine details, textures, and facial features
+- **Format Support:** Both landscape and portrait 9:16 aspect ratios
+- **Frame Rates:** 24 FPS and 48 FPS options
+- **Technical Features:** Last-frame interpolation for seamless transitions, LoRA fine-tuning support for custom styles
+- **Execution:** Optimized for local execution on consumer hardware
+- **Available via:** GenAIntel, local execution with open weights
 
 ### Kling 3.0 (February 6, 2026)
 - **Developer:** Kuaishou
@@ -82,6 +110,8 @@ The video generation space has evolved rapidly:
 ## Comparison Notes
 
 - **Best for Cinematic:** Sora 2, Runway Gen-4.5
-- **Best for Native Audio:** Veo 3, Kling 3.0, Seedance 2.0
+- **Best for Native Audio:** LTX-2.3, Veo 3, Kling 3.0, Seedance 2.0
+- **Best Open Source:** LTX-2.3 (Apache 2.0, local execution)
 - **Most Accessible:** Kling (via multiple platforms)
+- **Best for Local Execution:** LTX-2.3 (optimized for consumer hardware)
 - **Emerging Leader:** Seedance 2.0 (multimodal control)

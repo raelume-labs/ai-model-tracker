@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-11] - Open Source Video Generation Advancement
+
+### Added
+- **LTX-2.3 to video generation tracker** - Lightricks' open-source model with improved native audio and VAE architecture (Mar 8, 2026)
+- **News entry for March 11, 2026** - LTX-2.3 analysis covering open-source quality improvements and Apache 2.0 licensing
+
+### Updated
+- **Video generation models table** with LTX-2.3 addition and new comparison notes
+- **Recent releases section** in video models tracker
+- **Model details section** with comprehensive LTX-2.3 specifications
+- Last updated timestamp to March 11, 2026
+
+### Analysis
+- LTX-2.3 addresses key creator complaints about open-source video quality
+- Apache 2.0 license enables commercial use and fine-tuning
+- Focus on local execution makes high-quality video generation more accessible
+
 ## [2026-03-07] - Major Model Releases
 
 ### Added
