@@ -2,6 +2,26 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-12] - March AI Model Avalanche Update
+
+### Added
+- **Helios to video generation tracker** - PKU/ByteDance/Canva's 14B autoregressive model generating 1-minute videos at 19.5 FPS (Mar 6, 2026)
+- **Qwen 3.5 Small Series to language models tracker** - Alibaba's efficient 0.8B-9B parameter models with 9B matching 120B performance (Mar 1, 2026)
+- **News entry for March 12, 2026** - March AI model avalanche analysis covering 12+ major releases in first week
+
+### Updated
+- **Video generation models table** with Helios addition and real-time generation capabilities
+- **Language models table** with Qwen 3.5 Small series focusing on on-device deployment
+- **Recent releases sections** in both trackers with comprehensive model details
+- Last updated timestamps to March 12, 2026
+
+### Analysis
+- March 2026 first week delivered unprecedented concentration of AI releases (12+ models in 7 days)
+- Helios achieves breakthrough in real-time minute-long video generation without optimization tricks
+- Qwen 3.5 Small demonstrates efficiency frontier collapse (9B matching 120B models)
+- Open-source momentum accelerating with Apache 2.0 licensed production-grade models
+- Video generation reaching production maturity with native audio, 4K output, and real-time speeds
+
 ## [2026-03-11] - Open Source Video Generation Advancement
 
 ### Added

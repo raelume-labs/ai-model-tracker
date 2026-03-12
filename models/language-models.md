@@ -7,6 +7,7 @@ Tracking multimodal language models, text generation models, and reasoning model
 | Model | Company | Release Date | Size | Key Features | Benchmarks |
 |-------|---------|--------------|------|--------------|------------|
 | GPT-5.4 | OpenAI | Mar 5, 2026 | Frontier | Native computer use, advanced reasoning + coding, Excel/Sheets integration, autonomous agents | OSWorld-Verified benchmark improvements |
+| Qwen 3.5 Small | Alibaba | Mar 1, 2026 | 0.8B-9B | 9B matches 120B models, on-device deployment, 4GB RAM iPhone support | GPQA Diamond 81.7%, HMMT 83.2% |
 | Gemini 3.1 Pro | Google DeepMind | Feb 19, 2026 | Pro-tier | 1M-token context, 77.1% ARC-AGI-2, multimodal reasoning, agentic coding capabilities | 77.1% ARC-AGI-2 benchmark |
 | Qwen3.5 Medium | Alibaba | Feb 26, 2026 | 4 variants | Open source, Sonnet 4.5 performance on local hardware, agentic tool calling | Sonnet 4.5 comparable |
 | Qwen3.5 | Alibaba | Feb 16, 2026 | Multiple sizes | Native multimodal (text/image/video), agentic AI optimization, improved cost efficiency | TBD |
@@ -20,6 +21,13 @@ Tracking multimodal language models, text generation models, and reasoning model
 ## Recent Updates
 
 ### March 2026
+
+**Qwen 3.5 Small Series (Mar 1, 2026) - Alibaba**
+- Four dense model variants: 0.8B, 2B, 4B, and 9B parameters
+- 9B model matches GPT-OSS-120B (13x larger) on benchmarks: GPQA Diamond 81.7% vs 71.5%, HMMT 83.2% vs 76.7%
+- 2B model runs on iPhone in airplane mode with just 4GB RAM
+- Optimized for on-device AI deployment in privacy-sensitive and offline applications
+- Supports text and image processing with minimal resource requirements
 
 **GPT-5.4 (Mar 5, 2026) - OpenAI**
 - "Most capable and efficient frontier model for professional work"

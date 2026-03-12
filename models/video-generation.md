@@ -6,6 +6,7 @@ Last updated: March 11, 2026
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **Helios** | PKU/ByteDance/Canva | Mar 6, 2026 | 14B autoregressive, 1-minute videos, 19.5 FPS real-time, Apache 2.0 |
 | **LTX-2.3** | Lightricks | Mar 8, 2026 | Open-source, native audio, 24/48 FPS, portrait 9:16, improved VAE |
 | **Seedance 2.0** | ByteDance | Feb 12, 2026 | 12-file multimodal input, director-level control |
 | **Kling 3.0** | Kuaishou | Feb 6, 2026 | Multi-shot sequences 3-15s, subject consistency across camera angles, audio with voice reference |
@@ -17,6 +18,17 @@ Last updated: March 11, 2026
 | **Ray 2** | Luma | 2025 | Fast generation, natural motion |
 
 ## Recent Releases
+
+### Helios (March 6, 2026)
+- **Developer:** Peking University, ByteDance, Canva (collaboration)
+- **License:** Apache 2.0 (open-source, commercial use permitted)
+- **Architecture:** 14B autoregressive diffusion model
+- **Headline Feature:** Generates videos up to 1,440 frames (~1 minute at 24 FPS) at 19.5 FPS on single NVIDIA H100 GPU
+- **Technical Innovation:** No KV-cache, no quantization, no sparse attention, no anti-drifting heuristics needed
+- **Training Methods:** Deep Compression Flow and Easy Anti-Drifting strategies for native long-horizon generation
+- **Supported Tasks:** Text-to-video (T2V), image-to-video (I2V), video-to-video (V2V) through unified input representation
+- **Performance:** Outperforms existing distilled models on both short-video and long-video benchmarks
+- **Notable:** First model to achieve real-time generation speeds for minute-long video content
 
 ### LTX-2.3 (March 8, 2026)
 - **Developer:** Lightricks
@@ -56,6 +68,20 @@ Last updated: March 11, 2026
 - **Features:** Native text-to-video, improved consistency
 
 ## Model Details
+
+### Helios (March 6, 2026)
+- **Developer:** Peking University, ByteDance, Canva
+- **Release:** March 6, 2026
+- **License:** Apache 2.0 open-source, commercial use and modification permitted
+- **Architecture:** 14-billion-parameter autoregressive diffusion model
+- **Maximum Duration:** 1,440 frames (~1 minute at 24 FPS)
+- **Generation Speed:** 19.5 FPS on single NVIDIA H100 GPU (real-time for minute-long content)
+- **Key Innovation:** Native long-horizon generation without traditional optimization tricks
+- **Technical Approach:** Deep Compression Flow and Easy Anti-Drifting training strategies
+- **Supported Formats:** Text-to-video, image-to-video, video-to-video via unified input representation
+- **Performance:** Outperforms existing distilled models on short and long-video benchmarks
+- **Hardware Requirements:** Single H100 for real-time generation, optimized for efficient inference
+- **Available via:** Open weights, research paper available
 
 ### LTX-2.3 (March 8, 2026)
 - **Developer:** Lightricks
