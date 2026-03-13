@@ -2,6 +2,21 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-13] - Platform Integration & Model Delays Update
+
+### Added
+- **News entry for March 13, 2026** covering major platform integration announcements and model delays
+- **OpenAI Sora-ChatGPT integration** news - significant platform consolidation move
+- **Microsoft M365 Copilot Claude Sonnet integration** - enterprise multi-model strategy
+- **Meta "Avocado" model delay** to May 2026 from March target
+- **Google Groundsource methodology** using Gemini for news-to-data transformation
+- **Apple M5 MacBook launch** with 8x AI image generation improvements
+
+### Analysis
+- Platform integration trend accelerating: Sora into ChatGPT, Claude into M365 Copilot
+- Model launch delays signal quality control over rushed releases (Meta Avocado)
+- Apple hardware advances creating new benchmarks for local AI performance
+
 ## [2026-03-12] - March AI Model Avalanche Update
 
 ### Added
