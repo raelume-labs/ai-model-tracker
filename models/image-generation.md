@@ -1,6 +1,6 @@
 # Image Generation Models
 
-Last updated: February 26, 2026
+Last updated: March 14, 2026
 
 ## Model Comparison
 
@@ -10,6 +10,7 @@ Last updated: February 26, 2026
 | **GPT Image 1.5** | OpenAI | Feb 2026 | Faster/cheaper than DALL-E 3, leaderboard leader |
 | **Qwen Image 2.0** | Alibaba | Feb 2026 | 7B parameters, native 2K, #1 on AI Arena leaderboard |
 | **Flux 2 Pro Ultra** | Black Forest Labs | 2025 | High quality, style versatility, up to 2048px |
+| **Nano Banana 2** | Google | Feb 26, 2026 | Pro quality + Flash speed, enhanced text, web knowledge |
 | **Nano Banana Pro** | Google | Jan 2026 | 4K output, reasoning model, prompt adherence |
 | **Imagen 4** | Google | 2025 | Superior typography, photorealistic |
 | **Ideogram 3.0** | Ideogram | 2025 | Typography, graphic design, aesthetic control |
@@ -56,6 +57,15 @@ Last updated: February 26, 2026
 - **Speed:** ~5 seconds
 - **Strengths:** Style versatility, extensive community support
 - **Available via:** Replicate, Fal.ai, Krea, Raelume
+
+### Nano Banana 2
+- **Developer:** Google DeepMind
+- **Release:** February 26, 2026
+- **Speed:** ~15 seconds (Flash speed)
+- **Quality:** Pro-level quality with faster generation
+- **Strengths:** Enhanced text rendering, improved precision, advanced web knowledge from Internet
+- **Key Innovation:** Combines Pro quality with Flash speed, better instruction following
+- **Available via:** Gemini app globally, Google AI Studio, expected API integration
 
 ### Nano Banana Pro (Gemini Image)
 - **Developer:** Google

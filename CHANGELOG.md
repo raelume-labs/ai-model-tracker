@@ -2,6 +2,19 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-14] - Nano Banana 2 Addition
+
+### Added
+- **Nano Banana 2** to image generation models (Google DeepMind, Feb 26, 2026)
+  - Pro quality with Flash speed (~15s generation)
+  - Enhanced text rendering and web knowledge integration
+  - Global availability through Gemini app
+- **News entry for March 14, 2026** covering model tracker update
+
+### Analysis
+- Google's strategy of balancing quality vs speed in image generation
+- Part of broader efficiency improvements trend across AI image models
+
 ## [2026-03-13] - Platform Integration & Model Delays Update
 
 ### Added
