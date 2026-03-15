@@ -2,6 +2,28 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-15] - AI Tools and Robotics Model Updates
+
+### Added
+- **Ai2 MolmoBot** robotics manipulation model (March 13, 2026)
+  - Zero-shot sim-to-real transfer without real-world fine-tuning
+  - Trained on 1.8M synthetic simulation trajectories
+  - Open source release democratizes physical AI research
+- **Anthropic Code Review** for Claude Code (March 9, 2026)
+  - Automated pull request review and bug detection
+  - Enterprise preview addressing AI code output bottlenecks
+- **Perplexity Computer** enterprise multi-model agent (March 11, 2026)
+  - Orchestrates 19 AI models for complex workflows
+  - Dedicated Mac mini "Personal Computer" variant
+- **News entry for March 15, 2026** covering latest AI tools and platform integrations
+
+### Platform Integration News
+- OpenAI planning Sora integration into ChatGPT (response to declining standalone app engagement)
+- Amazon Health AI assistant expansion beyond One Medical app
+
+### Keywords Covered
+- ai2 molmobot zero shot robotics, anthropic code review claude code, perplexity computer enterprise agent
+
 ## [2026-03-14] - Nano Banana 2 Addition
 
 ### Added
