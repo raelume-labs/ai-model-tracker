@@ -2,6 +2,20 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-16] - Seedance Global Launch Update
+
+### Updated
+- **Seedance 2.0 Hype Tracker** - Added global launch pause information
+  - ByteDance delayed mid-March global release due to copyright concerns
+  - Engineers and lawyers working to address legal issues
+  - No new timeline announced
+- **News entry for March 16, 2026** covering launch delay and platform updates
+
+### Industry News
+- Dahua Xinghan Large-Scale AI Model 2.0 showcased at Intertraffic 2026
+- NVIDIA GTC 2026 keynote scheduled with expected AI model announcements
+- Runway platform integrating all major video generation models
+
 ## [2026-03-15] - AI Tools and Robotics Model Updates
 
 ### Added
