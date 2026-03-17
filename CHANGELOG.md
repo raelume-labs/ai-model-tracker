@@ -2,6 +2,32 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-17] - Major Model Releases and Timeline Updates
+
+### Added
+- **NVIDIA Nemotron 3 Super** to language models (March 10, 2026)
+  - 120B total, 12B active parameters (Mixture-of-Experts)
+  - Hybrid Mamba-Transformer architecture for agentic AI
+  - 5x higher throughput, #1 ranked on DeepResearch Bench
+- **GPT-OSS-120B** to language models (March 2026)
+  - OpenAI's first open-weight model release
+  - 120B parameters with commercial licensing
+  - Major shift in open-weight competitive landscape
+- **Claude Opus 4.5** to language models (March 2026)
+  - Enhanced coding and agentic capabilities
+  - Firefox vulnerability detection: 22 vulnerabilities found (14 critical)
+  - 1M token context with advanced reasoning
+- **News entry for March 17, 2026** covering DLSS 5, model releases, and industry analysis
+
+### Updated
+- **DeepSeek V4 Hype Tracker** - Revised timeline to Q2 2026
+  - Multiple March release windows missed
+  - Engineering challenges with trillion-parameter deployment
+  - Status changed from "Imminent" to "Delayed"
+
+### Keywords Covered
+- nvidia nemotron 3 super agentic ai, gpt-oss openai open weight, claude opus 4.5 coding agents, deepseek v4 delay timeline
+
 ## [2026-03-16] - Seedance Global Launch Update
 
 ### Updated

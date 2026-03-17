@@ -1,8 +1,8 @@
 # DeepSeek V4
 
-## Status: Imminent / March 2026
+## Status: Delayed / Q2 2026
 - **Company:** DeepSeek
-- **Expected Release:** First week of March 2026 (around March 3)
+- **Expected Release:** Q2 2026 (April-June, revised from March 3)
 - **Focus:** Trillion-parameter multimodal AI model (text, image, video generation)
 
 ## What people are saying:
@@ -21,7 +21,7 @@
 - **Timing:** Strategic release before China's annual parliamentary meetings
 
 ## Latest Intelligence:
-Multiple sources now point to first week of March 2026 release window. Reports indicate DeepSeek has been working with Chinese AI chipmakers to optimize V4 for their newest hardware. The model represents a major leap into multimodal capabilities beyond previous text-focused releases.
+**UPDATE March 17, 2026:** Release has been pushed to Q2 2026. The first week of March, mid-February, late-February, and early-March windows have all passed without launch. Sources indicate engineering challenges with trillion-parameter scale deployment. DeepSeek has been working with Chinese AI chipmakers to optimize V4 for their newest hardware. The model represents a major leap into multimodal capabilities beyond previous text-focused releases.
 
 ## Sources:
 - [Financial Times reporting on multimodal capabilities](https://www.pymnts.com/artificial-intelligence-2/2026/deepseek-poised-to-unveil-latest-ai-model/)
@@ -30,4 +30,4 @@ Multiple sources now point to first week of March 2026 release window. Reports i
 - [Geeky Gadgets technical details](https://www.geeky-gadgets.com/deepseek-v4-native-multimodal/)
 - [Kashmir Reader strategic timing analysis](https://kashmirreader.com/2026/03/02/deepseek-set-to-unveil-multimodal-v4-model-challenging-us-tech-dominance/)
 
-## Last updated: March 6, 2026
+## Last updated: March 17, 2026

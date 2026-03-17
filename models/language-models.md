@@ -7,6 +7,9 @@ Tracking multimodal language models, text generation models, and reasoning model
 | Model | Company | Release Date | Size | Key Features | Benchmarks |
 |-------|---------|--------------|------|--------------|------------|
 | GPT-5.4 | OpenAI | Mar 5, 2026 | Frontier | Native computer use, advanced reasoning + coding, Excel/Sheets integration, autonomous agents | OSWorld-Verified benchmark improvements |
+| Nemotron 3 Super | NVIDIA | Mar 10, 2026 | 120B total, 12B active | Hybrid Mamba-Transformer MoE, agentic reasoning, 5x higher throughput, open-weight | Top-ranked on DeepResearch Bench I & II |
+| GPT-OSS-120B | OpenAI | Mar 2026 | 120B | First open-weight model from OpenAI, commercial use with attribution, 700M MAU threshold | Competitive with proprietary models |
+| Claude Opus 4.5 | Anthropic | Mar 2026 | Flagship | Advanced coding and agentic capabilities, enhanced multi-step reasoning, vulnerability detection | Firefox codebase: 22 vulnerabilities found (14 critical) |
 | Qwen 3.5 Small | Alibaba | Mar 1, 2026 | 0.8B-9B | 9B matches 120B models, on-device deployment, 4GB RAM iPhone support | GPQA Diamond 81.7%, HMMT 83.2% |
 | Gemini 3.1 Pro | Google DeepMind | Feb 19, 2026 | Pro-tier | 1M-token context, 77.1% ARC-AGI-2, multimodal reasoning, agentic coding capabilities | 77.1% ARC-AGI-2 benchmark |
 | Qwen3.5 Medium | Alibaba | Feb 26, 2026 | 4 variants | Open source, Sonnet 4.5 performance on local hardware, agentic tool calling | Sonnet 4.5 comparable |
@@ -21,6 +24,29 @@ Tracking multimodal language models, text generation models, and reasoning model
 ## Recent Updates
 
 ### March 2026
+
+**Claude Opus 4.5 (Mar 2026) - Anthropic**
+- "The world's best model for programming, agents, and computer use"
+- Enhanced multi-step reasoning and agentic capabilities
+- Demonstrated Firefox vulnerability detection: analyzed 6,000 C++ files, found 22 vulnerabilities (14 critical) in 2 weeks
+- 1M token context window with reasoning capabilities
+- Flagship model for enterprise coding and security applications
+
+**GPT-OSS-120B (Mar 2026) - OpenAI**
+- OpenAI's first open-weight model release
+- 120 billion parameters with commercial licensing
+- Requires attribution and has 700M monthly active user threshold for additional licensing
+- Changes competitive landscape for open-weight models
+- Puts pressure on Meta, Alibaba, and DeepSeek in open-source space
+
+**NVIDIA Nemotron 3 Super (Mar 10, 2026) - NVIDIA**
+- 120B total parameters, 12B active (Mixture-of-Experts architecture)
+- Hybrid Mamba-Transformer model optimized for agentic AI systems
+- 5x higher throughput than previous models, 2.2x faster than GPT-OSS-120B
+- 7.5x higher throughput than Qwen3.5-122B in high-volume settings
+- Powered AI research agent that achieved #1 ranking on DeepResearch Bench and DeepResearch Bench II
+- Available on build.nvidia.com, Perplexity, OpenRouter, and Hugging Face
+- Optimized for complex multi-agent applications (software development, cybersecurity)
 
 **Qwen 3.5 Small Series (Mar 1, 2026) - Alibaba**
 - Four dense model variants: 0.8B, 2B, 4B, and 9B parameters
@@ -116,4 +142,4 @@ Tracking multimodal language models, text generation models, and reasoning model
 - **Qwen3.5**: Optimized for capability per unit of inference cost
 - **Claude Sonnet 4.6**: Balanced performance/cost option
 
-*Last updated: March 7, 2026*
+*Last updated: March 17, 2026*
