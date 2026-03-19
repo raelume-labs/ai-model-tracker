@@ -2,6 +2,22 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-19] - Hunter Alpha Identity Revealed and Hardware Acceleration Updates
+
+### Updated
+- **Hunter Alpha model attribution** corrected from suspected DeepSeek to confirmed Xiaomi
+- **Language models table** with Xiaomi Hunter Alpha entry (March 11 release date)
+
+### Added
+- **News entry for March 19, 2026** covering Hunter Alpha identity resolution
+- **Apple M5 MacBook Air** 8x AI performance improvement benchmarks
+- **AI model identity mystery trend** analysis of anonymous release speculation
+
+### Analysis
+- AI model attribution becoming critical for developer trust
+- Consumer hardware AI acceleration approaching professional thresholds
+- Anonymous model releases creating significant developer community buzz
+
 ## [2026-03-18] - Hardware Milestones and Anonymous Model Releases
 
 ### Added

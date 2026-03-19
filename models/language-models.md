@@ -6,6 +6,7 @@ Tracking multimodal language models, text generation models, and reasoning model
 
 | Model | Company | Release Date | Size | Key Features | Benchmarks |
 |-------|---------|--------------|------|--------------|------------|
+| Hunter Alpha | Xiaomi | Mar 11, 2026 | Unknown | Chinese-focused, anonymous initial release, May 2025 knowledge cutoff | TBD |
 | GPT-5.4 | OpenAI | Mar 5, 2026 | Frontier | Native computer use, advanced reasoning + coding, Excel/Sheets integration, autonomous agents | OSWorld-Verified benchmark improvements |
 | Nemotron 3 Super | NVIDIA | Mar 10, 2026 | 120B total, 12B active | Hybrid Mamba-Transformer MoE, agentic reasoning, 5x higher throughput, open-weight | Top-ranked on DeepResearch Bench I & II |
 | GPT-OSS-120B | OpenAI | Mar 2026 | 120B | First open-weight model from OpenAI, commercial use with attribution, 700M MAU threshold | Competitive with proprietary models |
