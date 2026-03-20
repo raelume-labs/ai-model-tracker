@@ -6,6 +6,7 @@ Last updated: March 11, 2026
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **Grok Imagine** | xAI | Jan 28, 2026 | #1 rated video model (March 2026), 60-second stories, 720p with audio, $0.05/sec API |
 | **Helios** | PKU/ByteDance/Canva | Mar 6, 2026 | 14B autoregressive, 1-minute videos, 19.5 FPS real-time, Apache 2.0 |
 | **LTX-2.3** | Lightricks | Mar 8, 2026 | Open-source, native audio, 24/48 FPS, portrait 9:16, improved VAE |
 | **Seedance 2.0** | ByteDance | Feb 12, 2026 | 12-file multimodal input, director-level control |
@@ -68,6 +69,20 @@ Last updated: March 11, 2026
 - **Features:** Native text-to-video, improved consistency
 
 ## Model Details
+
+### Grok Imagine (January 28, 2026)
+- **Developer:** xAI (Elon Musk)
+- **Release:** January 28, 2026 (API), July 28, 2025 (initial launch)
+- **Status:** #1 ranked AI video model on Artificial Analysis Video Arena (March 2026)
+- **Performance:** Beats Runway Gen-4.5, Sora 2 Pro, and Google Veo 3.1 in both text-to-video and image-to-video benchmarks
+- **Key Innovation:** 60-second narrative video generation combining language model capabilities with video generation
+- **Features:** Text-to-video, image-to-video, multi-image sequences, 720p output with native audio
+- **Extend from Frame:** Chain segments up to 15 seconds each (launched March 2, 2026)
+- **API Pricing:** $0.05 per second for 720p video with audio
+- **Free Access:** Discontinued for free users on March 19, 2026 (now requires SuperGrok subscription)
+- **Technical:** Built on Hotshot acquisition (video startup acquired by xAI in late 2025)
+- **Notable:** Rapid rise from no video product in July 2025 to market leader by late January 2026
+- **Available via:** X platform, Grok API
 
 ### Helios (March 6, 2026)
 - **Developer:** Peking University, ByteDance, Canva
@@ -135,9 +150,11 @@ The video generation space has evolved rapidly:
 
 ## Comparison Notes
 
+- **Current #1 Rated:** Grok Imagine (Artificial Analysis Video Arena, March 2026)
 - **Best for Cinematic:** Sora 2, Runway Gen-4.5
-- **Best for Native Audio:** LTX-2.3, Veo 3, Kling 3.0, Seedance 2.0
+- **Best for Native Audio:** LTX-2.3, Veo 3, Kling 3.0, Seedance 2.0, Grok Imagine
 - **Best Open Source:** LTX-2.3 (Apache 2.0, local execution)
 - **Most Accessible:** Kling (via multiple platforms)
 - **Best for Local Execution:** LTX-2.3 (optimized for consumer hardware)
-- **Emerging Leader:** Seedance 2.0 (multimodal control)
+- **Emerging Leader:** Seedance 2.0 (multimodal control, global launch paused)
+- **Best for Story Generation:** Grok Imagine (60-second narrative videos)

@@ -6,6 +6,7 @@ Tracking multimodal language models, text generation models, and reasoning model
 
 | Model | Company | Release Date | Size | Key Features | Benchmarks |
 |-------|---------|--------------|------|--------------|------------|
+| Gemini 3.1 Flash-Lite | Google | Mar 3, 2026 | Efficiency | Fastest and cheapest Gemini model, 40% cost reduction, $0.25/1M input tokens | Speed optimized |
 | Hunter Alpha | Xiaomi | Mar 11, 2026 | Unknown | Chinese-focused, anonymous initial release, May 2025 knowledge cutoff | TBD |
 | GPT-5.4 | OpenAI | Mar 5, 2026 | Frontier | Native computer use, advanced reasoning + coding, Excel/Sheets integration, autonomous agents | OSWorld-Verified benchmark improvements |
 | Nemotron 3 Super | NVIDIA | Mar 10, 2026 | 120B total, 12B active | Hybrid Mamba-Transformer MoE, agentic reasoning, 5x higher throughput, open-weight | Top-ranked on DeepResearch Bench I & II |
@@ -25,6 +26,14 @@ Tracking multimodal language models, text generation models, and reasoning model
 ## Recent Updates
 
 ### March 2026
+
+**Gemini 3.1 Flash-Lite (Mar 3, 2026) - Google**
+- Google's fastest and cheapest model as of March 2026
+- Pricing: $0.25 per 1M input tokens, $1.50 per 1M output tokens
+- 40% cost reduction compared to previous Gemini pricing tiers
+- Speed-optimized for high-volume applications
+- Part of Google's strategy to compete on inference costs
+- Targets developer adoption with aggressive pricing
 
 **Claude Opus 4.5 (Mar 2026) - Anthropic**
 - "The world's best model for programming, agents, and computer use"

@@ -2,6 +2,22 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-20] - Grok Imagine Platform Changes and Cost Competition
+
+### Updated
+- **Video generation models table** with Grok Imagine as #1 rated AI video model
+- **Language models table** with Gemini 3.1 Flash-Lite cost optimization details
+
+### Added
+- **Grok Imagine detailed profile** in video models with 60-second story generation capabilities
+- **News entry for March 20, 2026** covering free access termination and cost trends
+- **Gemini 3.1 Flash-Lite entry** with 40% cost reduction pricing analysis
+
+### Analysis
+- Premium AI video generation consolidating behind subscription paywalls
+- Open-source models (LTX-2.3) gaining importance as free alternatives disappear
+- Cost competition intensifying with Google's aggressive pricing strategy
+
 ## [2026-03-19] - Hunter Alpha Identity Revealed and Hardware Acceleration Updates
 
 ### Updated
