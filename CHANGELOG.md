@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-21] - Microsoft MAI-Image-2 Enters Top 3
+
+### Added
+- **Microsoft MAI-Image-2** to image generation models table at #3 on Arena.ai leaderboard
+- **Detailed MAI-Image-2 profile** with photorealism capabilities and platform integration
+- **News entry for March 21, 2026** covering leaderboard rankings and model developments
+
+### Updated
+- **Image generation model rankings** reflecting current Arena.ai standings
+- **GPT Image 1.5 description** updated to show #2 leaderboard position
+- **Last updated date** changed to March 21, 2026
+
+### Analysis
+- Microsoft's 5-month leap from #9 to #3 demonstrates rapid development acceleration
+- Top 3 now dominated by Google Gemini 3.1 Flash (#1), OpenAI GPT-Image 1.5 (#2), Microsoft MAI-Image-2 (#3)
+- Square-only output and daily caps may limit MAI-Image-2 adoption despite quality gains
+
 ## [2026-03-20] - Grok Imagine Platform Changes and Cost Competition
 
 ### Updated

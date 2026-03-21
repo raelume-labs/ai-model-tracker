@@ -1,14 +1,15 @@
 # Image Generation Models
 
-Last updated: March 14, 2026
+Last updated: March 21, 2026
 
 ## Model Comparison
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **MAI-Image-2** | Microsoft | Mar 20, 2026 | #3 on Arena.ai leaderboard, photorealism, text-in-image, Copilot/Bing integration |
 | **Seedream 5.0 Lite** | ByteDance | Feb 2026 | Web search integration, structured layouts, $0.035/image |
-| **GPT Image 1.5** | OpenAI | Feb 2026 | Faster/cheaper than DALL-E 3, leaderboard leader |
-| **Qwen Image 2.0** | Alibaba | Feb 2026 | 7B parameters, native 2K, #1 on AI Arena leaderboard |
+| **GPT Image 1.5** | OpenAI | Feb 2026 | #2 on Arena.ai leaderboard, faster/cheaper than DALL-E 3 |
+| **Qwen Image 2.0** | Alibaba | Feb 2026 | 7B parameters, native 2K, open source |
 | **Flux 2 Pro Ultra** | Black Forest Labs | 2025 | High quality, style versatility, up to 2048px |
 | **Nano Banana 2** | Google | Feb 26, 2026 | Pro quality + Flash speed, enhanced text, web knowledge |
 | **Nano Banana Pro** | Google | Jan 2026 | 4K output, reasoning model, prompt adherence |
@@ -21,6 +22,16 @@ Last updated: March 14, 2026
 | **Seedream 4** | ByteDance | 2025 | 4096px max, fast generation |
 
 ## Model Details
+
+### MAI-Image-2
+- **Developer:** Microsoft AI Superintelligence team
+- **Release:** March 20, 2026
+- **Ranking:** #3 on Arena.ai text-to-image leaderboard (trails only Google Gemini 3.1 Flash and OpenAI GPT-Image 1.5)
+- **Strengths:** Standout photorealism, text-in-image capabilities
+- **Limitations:** Daily generation caps, square-only output format
+- **Available via:** Microsoft Copilot, Bing Image Creator
+- **Previous Version:** MAI-Image-1 debuted at #9 in October 2025, rapid improvement to #3 in 5 months
+- **Technical Details:** Microsoft has not disclosed parameter counts, architecture, or training data specifications
 
 ### Seedream 5.0 Lite
 - **Developer:** ByteDance (BytePlus)
