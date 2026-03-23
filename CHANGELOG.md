@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-23] - Sora 2 Video API Full Developer Access
+
+### Added
+- **News entry for March 23, 2026** covering Sora 2 Video API launch for all developers
+- **Video API features** including video continuation, custom characters, and batch generation
+- **Competitive API analysis** comparing Sora 2 access to Runway, Kling, Veo, and Seedance
+
+### Updated
+- **Sora 2 model entry** with Video API availability (March 13, 2026)
+- **Video generation table** noting API access for developers
+- **Sora 2 detailed profile** with API features and platform integration details
+
+### Analysis
+- Full API access addresses key developer bottleneck with video generation workflows
+- Video continuation and custom character features differentiate from competitors
+- ChatGPT integration trend continues platform consolidation approach
+
 ## [2026-03-21] - Microsoft MAI-Image-2 Enters Top 3
 
 ### Added

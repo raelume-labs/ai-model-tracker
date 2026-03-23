@@ -12,7 +12,7 @@ Last updated: March 11, 2026
 | **Seedance 2.0** | ByteDance | Feb 12, 2026 | 12-file multimodal input, director-level control |
 | **Kling 3.0** | Kuaishou | Feb 6, 2026 | Multi-shot sequences 3-15s, subject consistency across camera angles, audio with voice reference |
 | **Veo 3.1** | Google | 2025 | 4K video, reference images + audio |
-| **Sora 2** | OpenAI | Dec 2025 | Cinematic quality, extended duration |
+| **Sora 2** | OpenAI | Dec 2025 | Cinematic quality, extended duration, Video API (all developers Mar 13, 2026) |
 | **Runway Gen-4.5** | Runway | Feb 2026 | Native text-to-video, frontier quality |
 | **Hailuo 2.3** | MiniMax | 2025 | Dynamic motion, frontier quality |
 | **Wan 2.6** | Alibaba | 2025 | Multi-shot support, improved quality |
@@ -131,8 +131,11 @@ Last updated: March 11, 2026
 ### Sora 2
 - **Developer:** OpenAI
 - **Release:** December 2025
-- **Features:** Extended duration, cinematic quality
+- **Features:** Extended duration, cinematic quality, up to 20 seconds
 - **Access:** ChatGPT Pro subscribers ($200/month)
+- **API:** Video API available to all developers (March 13, 2026)
+- **API Features:** Video continuation, custom characters, batch generation, 1080p resolution
+- **Platform Integration:** Being integrated directly into ChatGPT interface
 - **Variants:** Sora 2, Sora 2 Pro
 
 ### Hailuo / MiniMax
