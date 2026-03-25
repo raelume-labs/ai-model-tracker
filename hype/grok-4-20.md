@@ -1,29 +1,29 @@
 # Grok 4.20
 
-## Status: Expected Launch (March 2026)
+## Status: Released (February 19, 2026)
 - **Company:** xAI (Elon Musk)
-- **Expected Release:** March 2026 (imminent)
-- **Current Stage:** Official benchmarks pending
+- **Release Date:** February 19, 2026
+- **Current Stage:** Public beta available
 
 ## What people are saying:
-- "Grok 4.20 official benchmarks pending (expected March 2026)"
-- Expected to exceed Grok 4 baseline performance significantly
-- Following xAI's accelerated release cycle
-- Community anticipating benchmark revelations
+- "4 AI agents collaborating internally for enhanced capabilities"
+- "Rapid learning capabilities and improved model architecture"
+- ELO rating estimated at 1505-1535
+- Significant advancement over Grok 4.1 Fast released earlier in February
 
-## Expected capabilities:
-- **Performance:** Substantial improvement over Grok 4 baseline
-- **Architecture:** Enhanced multi-agent collaboration (building on 4-agent Grok 4)
-- **Speed:** Continued focus on rapid inference
-- **Integration:** Potential X platform deeper integration
+## Actual capabilities:
+- **Performance:** 4 AI agents collaborating internally within the model architecture
+- **Architecture:** Multi-agent system with rapid learning capabilities
+- **Speed:** Enhanced inference and learning speed
+- **Rating:** ELO 1505-1535 estimated performance rating
 
 ## Sources:
 - [Design for Online: The Best AI Models So Far in 2026](https://designforonline.com/the-best-ai-models-so-far-in-2026/) - March 14, 2026
-- Adam Holter AI model tracking predictions
-- xAI development timeline patterns
+- Language Models Tracker (confirmed February 19, 2026 release)
+- Public beta announcements from xAI
 
 ## Timeline:
-- **March 2026:** Expected official launch and benchmarks
-- **Q1 2026:** Development completion phase
+- **February 19, 2026:** Official release and public beta launch
+- **March 2026:** Continued development and improvements
 
-## Last updated: 2026-03-19
+## Last updated: 2026-03-25
