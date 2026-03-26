@@ -2,6 +2,24 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-26] - Seedance 2.0 Global Launch and Leaderboard Dominance
+
+### Updated
+- **Seedance 2.0 model entry** with March 2026 official global launch status
+- **Video generation table** noting #1 ranking on Artificial Analysis leaderboards
+- **Seedance 2.0 detailed profile** with confirmed Elo scores (text-to-video: 1269, image-to-video: 1351)
+- **Multimodal capabilities** updated with official confirmed specifications (9 images, 3 videos, 3 audio clips)
+
+### Added
+- **News entry for March 26, 2026** covering Seedance 2.0 leaderboard status
+- **Apple M5 hardware announcement** with AI performance improvements
+- **Market analysis** of ByteDance's position in multimodal video generation
+
+### Analysis
+- Seedance 2.0 leaderboard dominance represents significant shift from Grok Imagine leadership
+- Official global launch resolves previous beta access limitations
+- Multimodal input capabilities set new standard for director-level control in video generation
+
 ## [2026-03-23] - Sora 2 Video API Full Developer Access
 
 ### Added

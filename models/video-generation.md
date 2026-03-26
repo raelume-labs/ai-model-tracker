@@ -9,7 +9,7 @@ Last updated: March 11, 2026
 | **Grok Imagine** | xAI | Jan 28, 2026 | #1 rated video model (March 2026), 60-second stories, 720p with audio, $0.05/sec API |
 | **Helios** | PKU/ByteDance/Canva | Mar 6, 2026 | 14B autoregressive, 1-minute videos, 19.5 FPS real-time, Apache 2.0 |
 | **LTX-2.3** | Lightricks | Mar 8, 2026 | Open-source, native audio, 24/48 FPS, portrait 9:16, improved VAE |
-| **Seedance 2.0** | ByteDance | Feb 12, 2026 | 12-file multimodal input, director-level control |
+| **Seedance 2.0** | ByteDance | Mar 2026 | #1 text/image-to-video (Artificial Analysis), 12-file multimodal input, director-level control |
 | **Kling 3.0** | Kuaishou | Feb 6, 2026 | Multi-shot sequences 3-15s, subject consistency across camera angles, audio with voice reference |
 | **Veo 3.1** | Google | 2025 | 4K video, reference images + audio |
 | **Sora 2** | OpenAI | Dec 2025 | Cinematic quality, extended duration, Video API (all developers Mar 13, 2026) |
@@ -44,15 +44,17 @@ Last updated: March 11, 2026
 - **Audio Quality:** Cleaner audio with fewer artifacts, environmental ambience that fits the setting
 - **Notable:** One of the most significant open-source video releases of 2026, addresses key creator complaints about soft detail and messy audio
 
-### Seedance 2.0 (February 12, 2026)
+### Seedance 2.0 (March 2026)
 - **Developer:** ByteDance (TikTok parent)
-- **Headline Feature:** Multimodal input (text, images, video, audio)
+- **Release:** March 2026 (official global launch)
+- **Leaderboard Status:** #1 on Artificial Analysis text-to-video (Elo: 1269) and image-to-video (Elo: 1351) as of March 2026
+- **Headline Feature:** Unified multimodal audio-video generation (text, images, video, audio inputs)
+- **Multimodal Capacity:** Up to 9 images, 3 video clips, and 3 audio clips as references
 - **Duration:** 4-15 seconds per clip, multi-shot storytelling
-- **Audio:** Native audio sync in multiple languages
-- **Target Use:** Professional film, e-commerce, advertising
-- **Status:** Limited beta for select community members
-- **Public Release:** Expected late February/early March 2026
-- **Notable:** Went viral as potential "second DeepSeek moment" for China AI
+- **Audio:** Native audio sync in multiple languages, audio-synchronized output
+- **Target Use:** Professional film, e-commerce, advertising, director-level control
+- **Architecture:** Unified multimodal audio-video joint generation architecture
+- **Notable:** Positioned as director's workspace with comprehensive reference and editing capabilities
 
 ### Kling 3.0 (February 6, 2026)
 - **Developer:** Kuaishou
