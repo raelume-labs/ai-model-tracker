@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-27] - OpenAI Discontinues Sora 2 Video Platform
+
+### Updated
+- **Sora 2 model entry** marked as DISCONTINUED (March 24, 2026) in video generation table
+- **Sora 2 detailed profile** updated with discontinuation details, revenue data, and strategic context
+- **Video generation model comparison** notes adjusted to reflect current active platforms
+
+### Added
+- **News entry for March 27, 2026** covering Sora 2 shutdown announcement
+- **Market impact analysis** of OpenAI's withdrawal from standalone video generation
+- **Competitive landscape update** highlighting Seedance 2.0, Grok Imagine, and Kling 3.0 dominance
+
+### Analysis
+- First major AI model discontinuation of 2026, signals compute allocation strategy shifts
+- Reinforces ByteDance's Seedance 2.0 market leadership position
+- OpenAI focusing compute resources on text/reasoning models over video generation
+
 ## [2026-03-26] - Seedance 2.0 Global Launch and Leaderboard Dominance
 
 ### Updated
