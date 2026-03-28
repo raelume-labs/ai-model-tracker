@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-28] - Post-Sora Shutdown Market Analysis
+
+### Added
+- **News entry for March 28, 2026** covering OpenAI Sora shutdown market implications
+- **Developer migration patterns** analysis following Sora API discontinuation
+- **Market consolidation trends** around Grok Imagine, Kling 3.0, and Google Veo
+- **Enterprise risk mitigation strategies** including multi-vendor approaches
+
+### Analysis
+- Video AI market reshaping around three primary platforms after Sora exit
+- Open-source alternatives (LTX-2.3, Helios) gaining importance for vendor independence
+- Pricing dynamics shifting due to reduced competitive pressure
+- Q2 2026 outlook: Google consumer push, Runway price increases expected
+
+### Keywords Covered
+- sora 2 discontinued, ai video model landscape 2026, openai video generation shutdown, disney ai deal cancelled
+
 ## [2026-03-27] - OpenAI Discontinues Sora 2 Video Platform
 
 ### Updated
