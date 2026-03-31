@@ -2,6 +2,23 @@
 
 All notable updates to the AI Model Tracker.
 
+## [2026-03-31] - Claude Mythos Leak Reshapes Enterprise AI Security
+
+### Added
+- **News entry for March 31, 2026** covering Anthropic's Claude Mythos leak and enterprise AI security implications
+- **Claude Mythos hype tracker entry** with cybersecurity focus, market reaction analysis, and enterprise adoption speculation
+- **Enterprise AI security market analysis** including threat vector shifts and competitive responses
+- **Agentic cybersecurity assessment** covering autonomous threat detection and response capabilities
+
+### Analysis
+- First frontier model explicitly designed for enterprise cybersecurity automation
+- Market shift toward AI-native security solutions and autonomous threat response
+- Traditional cybersecurity industry facing automation pressure and partnership opportunities
+- Enterprise adoption expected Q2 2026 with Fortune 500 early access programs
+
+### Keywords Covered
+- anthropic mythos ai model, cybersecurity ai automation 2026, enterprise security ai leak, agentic cybersecurity threats
+
 ## [2026-03-28] - Post-Sora Shutdown Market Analysis
 
 ### Added
