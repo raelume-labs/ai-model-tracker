@@ -1,7 +1,7 @@
 # Claude Mythos
 
 ## Status
-**Announced** (via data leak) - Testing with early access customers
+**Limited Early Access** - Available to select customers (also called "Capybara tier")
 
 ## Company
 Anthropic

@@ -91,6 +91,7 @@ Tracking multimodal language models, text generation models, and reasoning model
 **Gemini 3.1 Pro (Feb 19, 2026) - Google DeepMind**
 - Advanced Pro-tier model with 1M-token context window
 - 77.1% performance on ARC-AGI-2 benchmark (significant jump from baseline)
+- **Current leader:** Leading 13 of 16 major benchmarks as of April 2026
 - Multimodal reasoning across text, images, audio, video, and code
 - Integrated into GitHub Copilot with focus on agentic coding
 

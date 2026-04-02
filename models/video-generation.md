@@ -1,11 +1,12 @@
 # Video Generation Models
 
-Last updated: March 11, 2026
+Last updated: April 2, 2026
 
 ## Model Comparison
 
 | Model | Company | Release | Key Features |
 |-------|---------|---------|--------------|
+| **Veo 3 Ultra** | Google DeepMind | 2026 (development) | Cutting edge of AI video generation in 2026, significant improvements over Veo 3.1 |
 | **Grok Imagine** | xAI | Jan 28, 2026 | #1 rated video model (March 2026), 60-second stories, 720p with audio, $0.05/sec API |
 | **Helios** | PKU/ByteDance/Canva | Mar 6, 2026 | 14B autoregressive, 1-minute videos, 19.5 FPS real-time, Apache 2.0 |
 | **LTX-2.3** | Lightricks | Mar 8, 2026 | Open-source, native audio, 24/48 FPS, portrait 9:16, improved VAE |
